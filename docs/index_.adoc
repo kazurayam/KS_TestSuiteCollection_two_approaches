@@ -1,3 +1,6 @@
+:DOCS_URL: https://kazurayam.github.io/KS_TestSuiteCollection_two_approaches
+
+
 = [Katalon Studio] 2 approaches how to compose Test Suite Collections
 
 I made this repository to present my thought about a topic in the Katalon Community Forum:
@@ -84,7 +87,7 @@ TSC_Firefox_profileY.ts
 
 Each Test Suite contains the 20 Test Suites while the **Run with** parameter is given with a value either of `Chrome`, `Edge Chromium`, `Firefox`; and the **Profile** paramter is given with a value either of `profileX`, `profileY`. See the following screenshot where you can see how the 6 Test Suites Collections are composed.
 
-image::./images/HighRiseProject.png[]
+image::{DOCS_URL}/images/HighRiseProject.png[]
 
 == Alternative approach
 
@@ -162,11 +165,11 @@ LowRiseProject/Test Cases
 
 The LowRiseProject contains only 1 Test Suite named `TS0` which binds the 40 Test Cases.
 
-image::images/TS1.png[]
+image::{DOCS_URL}/images/TS1.png[]
 
 The LowRiseProject contains only 1 Test Suite Collection: `TSC0`:
 
-image:./images/LowRiseProject.png[]
+image:{DOCS_URL}/images/LowRiseProject.png[]
 
 The `TSC0` defines 6 invokation of the `TS1`. Each invokation is given with unique combination of the "Run with" parameter and the "Profile" parameter.
 

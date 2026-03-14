@@ -75,7 +75,7 @@ The HighRiseProject contains 6 Test Suite Collections:
 Each Test Suite contains the 20 Test Suites while the **Run with** parameter is given with a value either of `Chrome`, `Edge Chromium`, `Firefox`; and the **Profile** paramter is given with a value either of `profileX`, `profileY`. See the following screenshot where you can see how the 6 Test Suites Collections are composed.
 
 <figure>
-<img src="./images/HighRiseProject.png" alt="HighRiseProject" />
+<img src="https://kazurayam.github.io/KS_TestSuiteCollection_two_approaches/images/HighRiseProject.png" alt="HighRiseProject" />
 </figure>
 
 ## Alternative approach
@@ -152,12 +152,12 @@ The LowRiseProject also contains 40 Test Cases enclosed under 20 folders:
 The LowRiseProject contains only 1 Test Suite named `TS0` which binds the 40 Test Cases.
 
 <figure>
-<img src="images/TS1.png" alt="TS1" />
+<img src="https://kazurayam.github.io/KS_TestSuiteCollection_two_approaches/images/TS1.png" alt="TS1" />
 </figure>
 
 The LowRiseProject contains only 1 Test Suite Collection: `TSC0`:
 
-![LowRiseProject](./images/LowRiseProject.png)
+![LowRiseProject](https://kazurayam.github.io/KS_TestSuiteCollection_two_approaches/images/LowRiseProject.png)
 
 The `TSC0` defines 6 invokation of the `TS1`. Each invokation is given with unique combination of the "Run with" parameter and the "Profile" parameter.
 
