@@ -167,7 +167,7 @@ The HighRiseProject contains 40 Test Cases. The LowRiseProject also contains 40 
 
 The HighRiseProject was very difficult to make. It was tiring to create 20 Tests Suites and 6 Test Suite Collections. In this regard, I empathise with the original poster.
 
-The LowRiseProject equips only 1 Test Suite `TS1` and 1 Test Suite Collection `TSC0`. The `TSC0` invokes the `TS1` 6 times with different combination of **Run with** parameter and **Profile** parameter.
+The LowRiseProject equips only 1 Test Suite `TS1` and 1 Test Suite Collection `TSC0`. The `TSC0` invokes the `TS1` 6 times with different combination of **Run with** parameter and **Profile** parameter. Cool!
 
 In my humble opinion, the approach of the LowRiseProject is ordinary. I believe that the Katalon originally designed the product with the approach of the LowRiseProject in mind.
 
