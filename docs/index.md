@@ -25,7 +25,7 @@ Let me quote the original post here for reference:
 
 ## Reproducing the original post
 
-I wanted to see the project that the original poster discussed about. However he doesn’t disclosed it. Therefore I made a mimic project named **HighRiseProject"**, which is published at the following URL:
+I wanted to see the project that the original poster discussed about. However he doesn’t disclosed it. Therefore I made a mimic project named **HighRiseProject**, which is published at the following URL:
 
 - <https://github.com/kazurayam/KS_TestSuiteCollection_two_approaches/tree/master/HighRiseProject>
 
@@ -165,7 +165,7 @@ The `TSC0` defines 6 invokation of the `TS1`. Each invokation is given with uniq
 
 The HighRiseProject contains 40 Test Cases. The LowRiseProject also contains 40 Test Cases. These 2 projects are equally large enough.
 
-The HighRiseProject was very difficult to make. It was tiring to create 40 Tests Suites and 6 Test Suite Collections.
+The HighRiseProject was very difficult to make. It was tiring to create 20 Tests Suites and 6 Test Suite Collections. In this regard, I empathise with the original poster.
 
 The LowRiseProject equips only 1 Test Suite `TS1` and 1 Test Suite Collection `TSC0`. The `TSC0` invokes the `TS1` 6 times with different combination of **Run with** parameter and **Profile** parameter.
 
