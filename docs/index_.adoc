@@ -171,3 +171,21 @@ image:./images/LowRiseProject.png[]
 The `TSC0` defines 6 invokation of the `TS1`. Each invokation is given with unique combination of the "Run with" parameter and the "Profile" parameter.
 
 
+== Discussion
+
+The HighRiseProject contains 40 Test Cases. The LowRiseProject also contains 40 Test Cases. These 2 projects are equally large enough.
+
+The HighRiseProject was very difficult to make. It was tiring to create 40 Tests Suites and 6 Test Suite Collections.
+
+The LowRiseProject equips only 1 Test Suite `TS1` and 1 Test Suite Collection `TSC0`. The `TSC0` invokes the `TS1` 6 times with different combination of **Run with** parameter and **Profile** parameter.
+
+In my humble opinion, the approach of the LowRiseProject is ordinary. I believe that the Katalon originally designed the product with the approach of the LowRiseProject in mind.
+
+In my humbole opinion, the approach of the HighRiseProject is extraordinary. You should not take this approach. If you have got a project already high rise, then I would recommend you to reform your project to bring it low rise.
+
+== Appendics
+
+=== Terminologies
+
+- link:https://en.wikipedia.org/wiki/Low-rise_building[low rise building]
+- link:https://en.wikipedia.org/wiki/Tower_block[high rise building]
