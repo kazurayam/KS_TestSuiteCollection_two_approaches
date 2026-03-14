@@ -173,9 +173,7 @@ In my humble opinion, the approach of the LowRiseProject is ordinary. I believe 
 
 In my humble opinion, the approach of the HighRiseProject is extraordinary. You should not take this approach. If you have got a project already high rise, then I would recommend you to reform your project to bring it low rise.
 
-## Appendics
-
-### Terminologies
+## Terminologies
 
 - [low rise building](https://en.wikipedia.org/wiki/Low-rise_building)
 
