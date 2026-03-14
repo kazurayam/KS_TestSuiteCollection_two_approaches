@@ -169,9 +169,9 @@ The HighRiseProject was very difficult to make. It was tiring to create 20 Tests
 
 The LowRiseProject equips only 1 Test Suite `TS1` and 1 Test Suite Collection `TSC0`. The `TSC0` invokes the `TS1` 6 times with different combination of **Run with** parameter and **Profile** parameter. Cool!
 
-In my humble opinion, the approach of the LowRiseProject is ordinary. I believe that the Katalon originally designed the product with the approach of the LowRiseProject in mind.
+In my humble opinion, the approach of the LowRiseProject is usual. I believe that the Katalon originally designed the product with the approach of the LowRiseProject in mind.
 
-In my humble opinion, the approach of the HighRiseProject is extraordinary. You should not take this approach. If you have got a project already high rise, then I would recommend you to reform your project low rise.
+In my humble opinion, the approach of the HighRiseProject is unusual. You should not take this approach. If you have got a project already high rise, then I would recommend you to reform your project low rise.
 
 ## Terminologies
 
